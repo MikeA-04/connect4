@@ -1,4 +1,4 @@
-# connect4
+# Connect Four
 The game opens with a welcome screen. To start the game, press "Start."\
 <img src="https://user-images.githubusercontent.com/69696262/162585905-da53054e-ac93-4206-b742-f751f3ff3df6.png" width=60% height=60%>
 \
